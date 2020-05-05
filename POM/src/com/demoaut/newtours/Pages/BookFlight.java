@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class BookFlight {
-	//giving credentials to book a flight
+	
 	
 	@FindBy(name="passFirst0")
 	private WebElement firstName;
